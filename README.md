@@ -1,5 +1,4 @@
-# Wikipedia Console Searcher  
-
+# PS04 — Поиск в Википедии через консоль (Selenium)
 **Учебный проект:** Автоматизированный поиск и чтение статей в Википедии через консоль с использованием Selenium.  
 
 ## Описание  
@@ -26,8 +25,8 @@
 ### Инструкция по запуску  
 1. Клонируйте репозиторий:  
    ```bash
-   git clone <репозиторий>
-   cd wikipedia-console-searcher
+   git clone https://github.com/koshshshka-ann/PS04
+   cd PS04
    ```  
 
 2. Установите зависимости:  
